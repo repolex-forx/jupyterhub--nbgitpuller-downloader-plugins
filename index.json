@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "nbgitpuller-downloader-plugins",
+  "versions": [
+    {
+      "commit": "646857507fb21a6f2a7222bdd7610d7184492e69",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:05:31.772463+00:00"
+    }
+  ]
+}
